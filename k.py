@@ -1,0 +1,5 @@
+a = input ("ввыдите число:")
+b = input ("ввыдите число:")
+a = int(a)
+b = int(b)
+print (a ** b)
